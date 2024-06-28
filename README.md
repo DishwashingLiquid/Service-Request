@@ -1,5 +1,6 @@
 # IMISS - System
 This is the IMISS System for Amang Rodriguez Memorial Medical Center
+I created this as a GIP for a project based contract.
 
 # Hierarchy of Files
 ## FOLDERS
